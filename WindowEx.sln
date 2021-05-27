@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31220.234
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowEx", "WindowEx\WindowEx.csproj", "{F0760540-DFF8-42BF-81F7-2BC5F4E58DB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowEx", "WindowEx\WindowEx.csproj", "{F0760540-DFF8-42BF-81F7-2BC5F4E58DB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64C5E401-AB48-4804-841A-9B16BFA16019}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
