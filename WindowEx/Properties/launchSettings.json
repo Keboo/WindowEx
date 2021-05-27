@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WindowEx": {
+      "commandName": "Project",
+      "commandLineArgs": "border false --window-title \"Windowed Projector (Preview)\""
+    }
+  }
+}
